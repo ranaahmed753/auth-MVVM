@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "548024627265",
+    "project_id": "navigationcomponent-e1483",
+    "storage_bucket": "navigationcomponent-e1483.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548024627265:android:08ddff32a2d5a13deed6c0",
+        "android_client_info": {
+          "package_name": "com.codecamp.navigationcomponent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548024627265-kpm03ubsvkno2p3267iqpg7f8dpuprr6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEJLj5JujtRCwfcX8YFURgssUTFEQg-aY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548024627265-kpm03ubsvkno2p3267iqpg7f8dpuprr6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
